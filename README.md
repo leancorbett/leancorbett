@@ -1,9 +1,36 @@
-- 👋 Hi, I’m LeAn Corbett
-- 👀 Aspiring Web Developer
-- 🌱 I’m currently learning on https://www.theodinproject.com/
-- 💞️ I’m looking to collaborate on nothing yet but hope I'll have enough skills soon to join or start a collaboration.
-  
-🌐 Connect with me
-- 📫 Email: leancorbett@yahoo.com 
-- 🔗 LinkedIn: [linkedin.com/in/leancorbett](https://www.linkedin.com/in/leancorbett/)  
+👋 Hi, I’m LeAn Corbett
 
+Aspiring Web Developer | Currently learning modern JavaScript, React, and Node.js  
+
+---
+
+🌱 Currently Learning
+- [The Odin Project](https://www.theodinproject.com/) – Full stack web development curriculum  
+
+---
+
+##💻 Skills
+  
+- HTML, CSS
+- Git, GitHub, VS Code  
+
+---
+
+##🔹 Projects
+
+---
+
+💞️ Collaboration
+- Looking to collaborate on beginner-friendly projects soon!  
+
+---
+
+## 🌐 Connect with me
+- 📫 Email: leancorbett@yahoo.com  
+- 🔗 LinkedIn: [linkedin.com/in/leancorbett](https://www.linkedin.com/in/leancorbett/)  
+##- 🌍 Portfolio: [leancorbett.dev](https://leancorbett.dev) *(once ready)*  
+
+---
+
+## 📈 GitHub Stats
+![LeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=leancorbett&show_icons=true&theme=radical)
