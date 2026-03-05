@@ -21,12 +21,9 @@ Aspiring Web Developer | Currently learning modern JavaScript, React, and Node.j
 
 ---
 
-## 🌐 Connect with me
+🌐 Connect with me
 - 📫 Email: leancorbett@yahoo.com  
 - 🔗 LinkedIn: [linkedin.com/in/leancorbett](https://www.linkedin.com/in/leancorbett/)  
 - 🌍 Portfolio: [leancorbett.dev](https://leancorbett.dev) *(once ready)*  
 
 ---
-
-📈 GitHub Stats
-![LeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=leancorbett&show_icons=true&theme=radical)
