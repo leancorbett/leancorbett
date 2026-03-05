@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @lcorbett25
-- 👀 I’m interested in learning web development.
-- 🌱 I’m currently learning javascript on the app academy website.
+- 👋 Hi, I’m LeAn Corbett
+- 👀 Aspiring Web Developer
+- 🌱 I’m currently learning on https://www.theodinproject.com/
 - 💞️ I’m looking to collaborate on nothing yet but hope I'll have enough skills soon to join or start a collaboration.
-- 📫 How to reach me ...
+  
+🌐 Connect with me
+- 📫 Email: leancorbett@yahoo.com 
+- 🔗 LinkedIn: [linkedin.com/in/leancorbett](https://www.linkedin.com/in/leancorbett/)  
 
-<!---
-lcorbett25/lcorbett25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
